@@ -102,7 +102,9 @@ void loop() {
 
 ## Output:
  
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/51cf5ed0-8d1b-4fbb-9b62-b247b77e85a4" />
 
+## Tinkercad Output:
 
 ## Result
 
