@@ -106,6 +106,8 @@ void loop() {
 
 ## Tinkercad Output:
 
+<img width="1480" height="925" alt="image" src="https://github.com/user-attachments/assets/40487f50-6c05-4cac-bc1a-c6d25b5d0b35" />
+
 ## Result
 
 
